@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+}
+.martin{
+    background-color: blue;
+    border: 20px solid yellow;
+    border-radius: 10px;
+    margin: 200px 200px 50px 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+    
+}
+.sajek{
+    background-color: crimson;
+    border: 20px solid black;
+    border-radius: 10px;
+    margin: 200px 200px 50px 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+.sundarban{
+    background-color: gold;
+    border: 20px solid red;
+    border-radius: 10px;
+    margin: 200px 200px 50px 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+.heading{
+    text-align: center;
+    font-weight: 100;
+}
+.name{
+    color: lawngreen;
+}
+.martin p{
+    color: white;
+}
+.sajek p{
+    color: white;
+}
+.sundarban p{
+    color: blue;
+}
